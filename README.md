@@ -1,10 +1,7 @@
 Проект "Магазин"
 
-## Требования
-- Java 17+
-- IntelliJ IDEA Community Edition
 
-## Как запустить
+ Как запустить
 1. Откройте проект в IntelliJ IDEA.
 2. Убедитесь, что установлен JDK 17.
 3. Создайте файлы `Product.java`, `Cart.java`, `Main.java` 
